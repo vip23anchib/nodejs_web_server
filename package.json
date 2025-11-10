@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_web_server",
+  "version": "1.0.0",
+  "description": "Node.js Web Server tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "express": "^5.1.0",
+    "uuid": "^13.0.0"
+  }
+}
